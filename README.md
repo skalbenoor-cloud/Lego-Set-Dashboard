@@ -39,4 +39,4 @@ Key Questions such as - How many LEGO sets have been released since 1970? Is the
    The business can use this dashboard to view the top performing themes, understand which age group has more sets, look into price distribution impact, it also makes easier for users to select the accurate set they are looking for based on theme ,age group and price.At the same time it also provides premium sets for advanced users. Overall this dashboard helps in identifying key trends which also contributes to increased sales and consistent revenue generation.
 
 5.Screenshot:
-
+ https://github.com/skalbenoor-cloud/Lego-Set-Dashboard/blob/main/Lego%20Set%20Dashboard.JPG
